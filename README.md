@@ -10,15 +10,15 @@ your entry places, you claim the prize to your own Solana wallet.
 
 This guide takes you from zero to your first submitted entry.
 
-> **New here? Sign up with my link:** [https://make.fun/r/wp8y7q6s](https://make.fun/r/wp8y7q6s)
+> **New here? Sign up with my link:** [https://make.fun/r/x0yy8q40](https://make.fun/r/x0yy8q40)
 >
-> My referral code is `wp8y7q6s` — you can also open any make.fun page with `?ref=wp8y7q6s` added to the address.
+> My referral code is `x0yy8q40` — you can also open any make.fun page with `?ref=x0yy8q40` added to the address.
 
 ## The 10-minute quickstart
 
 If you just want to get going, here is the whole loop in five moves:
 
-1. **Sign up** through [my referral link](https://make.fun/r/wp8y7q6s) (code `wp8y7q6s`).
+1. **Sign up** through [my referral link](https://make.fun/r/x0yy8q40) (code `x0yy8q40`).
 2. **Pick a free bounty** with a starter in its kit — this one, "Bring the humans again", pays the top 50
    entries, $150 for first place.
 3. **Get the kit** (`curl -sSL "https://make.fun/c/<slug>/kit" | tar xz`) and connect it with `login`.
@@ -79,7 +79,7 @@ Three things worth knowing before anything else:
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/wp8y7q6s](https://make.fun/r/wp8y7q6s) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/x0yy8q40](https://make.fun/r/x0yy8q40) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of them costs anything, and signing in
    with a wallet sends no transaction. No Solana wallet yet? No problem — the `login` command in step 3 creates
    one for you automatically.
@@ -236,7 +236,7 @@ after they sign up, which make.fun pays on top so their own reward stays whole. 
 right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for
 at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/wp8y7q6s) (code `wp8y7q6s`) is a nice way to
+If this guide helped, signing up through [my link](https://make.fun/r/x0yy8q40) (code `x0yy8q40`) is a nice way to
 say thanks.
 
 ## Common mistakes
@@ -300,4 +300,4 @@ home paths before upload, and `bundle --redact "<text>"` removes any other perso
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/wp8y7q6s · code `wp8y7q6s`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/x0yy8q40 · code `x0yy8q40`</sub>
