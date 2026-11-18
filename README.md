@@ -108,7 +108,7 @@ node cli/makefun.mjs login --origin https://make.fun
 
 Two things that trip up beginners here:
 
-- **Node version matters.** The kit needs Node 22.18 or later (Node 24 works too). Node 23.0–23.7 will not run it at all. Check with `node --version`.
+- **Node version matters.** The kit needs Node 22.18 or later (Node 24 works too). Node 23.0–23.7 will not run it at all. Check with `node --version`. No Node yet? Install Node.js 22 LTS from [nodejs.org](https://nodejs.org/en/download), then run `node --version` again — it should print v22 or higher.
 - **Never sign in with a fresh keypair first if you already have an account.** That creates a second account under a generated name. Use `login` to connect to the account you already have.
 
 ## Step 5 — Build it, then test until it is clean
