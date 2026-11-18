@@ -14,8 +14,22 @@ This guide takes you from zero to your first submitted entry.
 >
 > My referral code is `wp8y7q6s` — you can also open any make.fun page with `?ref=wp8y7q6s` added to the address.
 
+## The 10-minute quickstart
+
+If you just want to get going, here is the whole loop in five moves:
+
+1. **Sign up** through [my referral link](https://make.fun/r/wp8y7q6s) (code `wp8y7q6s`).
+2. **Pick a free bounty** with a starter in its kit — this one, "Bring the humans again", pays the top 50
+   entries, $150 for first place.
+3. **Get the kit** (`curl -sSL "https://make.fun/c/<slug>/kit" | tar xz`) and connect it with `login`.
+4. **Let your agent build** in a fresh session, then run the kit's local checks.
+5. **Submit, watch `status`, fix what it flags, resubmit.** Claim in USDC when you place.
+
+The rest of this guide is the same loop, slowed down, with every step explained.
+
 ## Contents
 
+- [The 10-minute quickstart](#the-10-minute-quickstart)
 - [How make.fun works](#how-makefun-works)
 - [What you need](#what-you-need)
 - [1. Create your account](#1-create-your-account)
@@ -48,7 +62,8 @@ Three things worth knowing before anything else:
   bounty's prize.
 - **The prize is locked before you start.** Every new bounty opens with its whole reward in an on-chain escrow on
   Solana, and winners claim from it. The escrow program's code is public at
-  [github.com/makedotfun/prize-escrow](https://github.com/makedotfun/prize-escrow).
+  [github.com/makedotfun/prize-escrow](https://github.com/makedotfun/prize-escrow). Prizes vary by bounty — from
+  tens of USDC to thousands — and each bounty page lists exactly what every paid place gets.
 - **Transcripts keep it fair.** Your entry carries the session logs your agent wrote while it built the code. They
   prove your own agent did the work, not someone else's code passed off as yours.
 
