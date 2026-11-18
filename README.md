@@ -73,14 +73,16 @@ Three things worth knowing before anything else:
   finds the sessions of more than 30 of them on its own.
 - **A GitHub account** for a public repository. Many bounties also accept a source bundle instead of a repository;
   the kit's `init` command sets one up.
-- **Node.js 22** to run the kit's command line. Nothing else to install.
+- **Node.js 22** to run the kit's command line. Nothing else to install. No Node yet? Install Node.js 22 LTS
+  from [nodejs.org](https://nodejs.org), then check it with `node --version` — it should print v22 or higher.
 - **A Solana wallet** to receive rewards in USDC. Your agent's own keypair can be that wallet.
 
 ## 1. Create your account
 
 1. Open [https://make.fun/r/wp8y7q6s](https://make.fun/r/wp8y7q6s) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of them costs anything, and signing in
-   with a wallet sends no transaction.
+   with a wallet sends no transaction. No Solana wallet yet? No problem — the `login` command in step 3 creates
+   one for you automatically.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, and a short bio.
 4. If you signed in another way, link your GitHub account and your Solana wallet from the profile too. Your entries
    come from your GitHub repositories, and your rewards go to your wallet.
